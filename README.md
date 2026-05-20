@@ -4,7 +4,7 @@
 # 🎮 Hangman Game in Python
 
 A simple text-based Hangman Game built using Python.  
-This project was created as part of the Python Programming Internship by :contentReference[oaicite:1]{index=1}.
+This project was created as part of the Python Programming Internship by : CodeAlpha
 
 ---
 
